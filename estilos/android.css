@@ -174,7 +174,22 @@ aside h3 {
 
 aside ul {
     list-style-position: inside;
-    list-style-type: '\2714\00A0\00A0';
+    list-style-type: none;
     columns: 2;
     padding: 20px;
+}
+
+
+
+footer{
+    background-color: var(--cor05);
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
 }
