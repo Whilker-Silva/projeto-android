@@ -35,14 +35,15 @@ body {
 header {
     background-image: linear-gradient(to bottom, var(--cor03), var(--cor05));
     color: white;
-    height: 150px;
+    min-height: 150px;
+    padding-bottom: 15px;
     
 }
 
 header h1 {
     font-family: var(--fonte-titulos);
     font-weight: normal;
-    font-size: 2.5em;
+    font-size: 4em;
     text-align: center;
     padding: 20px 0px;
     text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.562);
