@@ -130,3 +130,7 @@ main img {
 main img.especial{
     max-width: 400px;
 }
+
+aside{
+    background-color: var(--cor01);
+}
